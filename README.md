@@ -1,3 +1,27 @@
 # shoppingApp_retention
 
-슬라이드1.PNG
+![슬라이드1](https://user-images.githubusercontent.com/86030068/156741903-29c0fca9-d6e3-4737-875e-efffa5ef197e.PNG)
+![슬라이드2](https://user-images.githubusercontent.com/86030068/156741912-b4c40fd6-f124-4252-9137-0cc870c75051.PNG)
+![슬라이드3](https://user-images.githubusercontent.com/86030068/156741915-88b479b7-8392-4454-9cb6-88435f1310e8.PNG)
+![슬라이드4](https://user-images.githubusercontent.com/86030068/156741917-b96609da-977c-4d58-87ef-1b2494b70b7a.PNG)
+![슬라이드5](https://user-images.githubusercontent.com/86030068/156741918-54ad85f6-3668-4fa9-b336-1e02a67f6f97.PNG)
+![슬라이드6](https://user-images.githubusercontent.com/86030068/156741921-3b1220d7-5e9f-47f2-826d-5c845d85682b.PNG)
+![슬라이드7](https://user-images.githubusercontent.com/86030068/156741923-ac4e2329-5412-495d-987a-35af5552d7f2.PNG)
+![슬라이드8](https://user-images.githubusercontent.com/86030068/156741924-e4f82cc2-52ee-4ec1-94d5-5383bfc42aac.PNG)
+![슬라이드9](https://user-images.githubusercontent.com/86030068/156741926-9c105e89-b2c1-44ec-8eff-db080ddcf720.PNG)
+![슬라이드10](https://user-images.githubusercontent.com/86030068/156741927-76f9097d-e688-4ec5-b653-9a1122f5c87d.PNG)
+![슬라이드11](https://user-images.githubusercontent.com/86030068/156741928-ce133836-af64-40ba-90bd-0cdb4242068f.PNG)
+![슬라이드12](https://user-images.githubusercontent.com/86030068/156741930-800aa073-cac9-4da9-81cc-4af3178ee74a.PNG)
+![슬라이드13](https://user-images.githubusercontent.com/86030068/156741933-ebe828cc-2469-4bec-ac2b-914efaa01dd9.PNG)
+![슬라이드14](https://user-images.githubusercontent.com/86030068/156741935-2ea8622b-5798-4391-b7f0-7bf17d114ddf.PNG)
+![슬라이드15](https://user-images.githubusercontent.com/86030068/156741936-19947a3e-e2a7-43d7-ac2d-783d13ef7c8e.PNG)
+![슬라이드16](https://user-images.githubusercontent.com/86030068/156741939-7fce4c27-0be0-41b7-932a-88f16264813a.PNG)
+![슬라이드17](https://user-images.githubusercontent.com/86030068/156741940-0de0e748-b1e5-4bf6-a5d3-60b517a6c794.PNG)
+![슬라이드18](https://user-images.githubusercontent.com/86030068/156741941-cdabf63d-a4a2-47e3-ac75-40b80fb6dd8c.PNG)
+![슬라이드19](https://user-images.githubusercontent.com/86030068/156741943-34ded9c0-656c-4ee6-bc88-2a09ec71f37b.PNG)
+![슬라이드20](https://user-images.githubusercontent.com/86030068/156741946-57d4320c-04a3-43af-9d23-27fe41e4e3e2.PNG)
+![슬라이드21](https://user-images.githubusercontent.com/86030068/156741948-bf44d6b7-2856-4c1c-b855-0f17f9080f54.PNG)
+![슬라이드22](https://user-images.githubusercontent.com/86030068/156741951-bdf63872-fa58-46e5-9339-90a5ee872748.PNG)
+![슬라이드23](https://user-images.githubusercontent.com/86030068/156741952-4d1551d4-23ef-485f-8564-419905f145ad.PNG)
+![슬라이드24](https://user-images.githubusercontent.com/86030068/156741953-43f6fe95-5a8b-4a96-82c1-a7c49c135ecf.PNG)
+
